@@ -467,9 +467,9 @@
                 }
             });
 
-            // bookBtn.addEventListener('click', function() {
+            <!-- // bookBtn.addEventListener('click', function() {
             //     alert('Booking functionality coming soon!');
-            // });
+            // }); -->
 
             viewDetailsBtns.forEach(btn => {
                 btn.addEventListener('click', function() {
@@ -485,3 +485,5 @@
     </script>
 </body>
 </html>
+
+// testing if it is true
